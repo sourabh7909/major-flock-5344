@@ -1,0 +1,100 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#frist{
+  background-color: #f2f2f2;
+  height:35px;
+  display:flex
+}
+#test_one{
+    color:rgb(193, 190, 190);
+    font-size: 15.5px;
+    align-items: center;
+   padding-top: 5px;
+   padding-left:20px;
+    font-weight:700
+}
+#test_one:hover {
+  color: rgb(112, 110, 110);
+  }
+  #test_two{
+    color:rgb(193, 190, 190);
+    font-size: 13px;
+    align-items: center;
+   padding-top: 7px;
+   padding-left:18px;
+    font-weight:700
+}
+#test_two:hover {
+  color: rgb(112, 110, 110);
+  }
+#img_one{
+  padding: 12px 0px 0px 16px;
+  color: gray;
+}  
+#test_three{
+  color:rgb(193, 190, 190);
+  font-size: 15px;
+  align-items: center;
+ padding-top: 9px;
+ padding-left:18px;
+  font-weight:500;
+  font-family: 'Dosis', sans-serif;
+}
+#test_three:hover {
+color: rgb(112, 110, 110);
+}
+#mid_text{
+  width:34%;
+  margin: auto;
+  font-size: 15px;
+  color:rgb(71, 70, 70);
+  
+}
+#container{
+  margin-left: 80px;
+  display: flex;
+  justify-content: space-between;
+  width:50%;
+}
+#botom_text{
+  font-size: 11px;
+  color:rgb(113, 113, 113);
+}
+#poster1{
+position: relative;
+}
+#poster1_text{
+position: absolute;
+top:0;
+padding: 10px;
+margin:20px 0px 0px 150px;
+}
+#poster2{
+position: relative;
+}
+#poster2_text{
+position: absolute;
+top:0;
+padding: 10px;
+margin-left: 70px;
+}
+#h1{
+border:1px solid red;  
+width:50%;
+text-align:center;
+}
+#p{
+border:1px solid red;  
+width:60%;
+text-align:center;
+}
+#h2{
+  border:1px solid red;  
+width:50%;
+text-align:center;
+}
