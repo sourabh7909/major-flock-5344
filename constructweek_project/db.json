@@ -1,28 +1,67 @@
 
 {
-    "data":[
-        {"name":"sourabh"}
+    "fav_product":[
+        {
+            "image":"https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_swim.svg",
+            "title":"BABY_1"
+        },
+        {
+            "image":"https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_M2M.svg",
+            "title":"BABY_2"
+        },
+        {
+            "image":"https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_basics.svg",
+            "title":"BABY_3"
+        },
+        {
+            "image":"https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_familymatching.svg",
+            "title":"BABY_4"
+        },
+        {
+            "image":"https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_pajamas.svg",
+            "title":"BABY_5"
+        },
+        {
+            "image":"https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_shoes.svg",
+            "title":"BABY_6"
+        }
     ],
-    "frist_product":[
+    "threeproduct":[
         {
-            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/content/dam/ecomm/ec_creative_carters/2023/projects/q1-cs-faces/desktop_csfaces_bg.png?yocs=4G_4I_",
-            "title":"BABY GIRL"
+            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/CAR_Q1_HPBrandBanner_LP_Desktop_Oshkosh.jpg?yocs=4G_4I_",
+            "image_sec":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/desktop_okb_logo.svg?yocs=4G_",
+            "text":"An authentic American icon with nostalgic,appeal modern relevance and enduring cool.",
+            "title":"1"
         },
         {
-            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/content/dam/ecomm/ec_creative_carters/2023/projects/q1-cs-faces/desktop_csfaces_bb.png?yocs=4G_4I_",
-            "title":"BABY GIRL"
+            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/CAR_Q1_HPBrandBanner_LP_Desktop_SkipHop.jpg?yocs=4G_4I_",
+            "image_sec":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/desktop_skiphop_logo.svg?yocs=4G_"  ,    
+            "text":"Innovative grow-with-me designs help make life with little ones easy and fun",
+            "title":"2"
         },
         {
-            "image":"",
-            "title":"BABY GIRL"
+            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/CAR_Q1_HPBrandBanner_LP_Desktop_LittlePlanet.jpg?yocs=4G_4I_",
+            "image_sec":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/desktop_little_planet_logo.svg?yocs=4G_"  ,
+            "text":"Crafted in pure,organic cotton,these timeless designs are a return to simplicity.",
+            "title":"3"
+        }
+    ],
+    "fourproducts":[
+        {
+            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/crm/2023/q1/loyalty-service-footers/service-icons/desktop-icons/1-Hour%20Pick%20Up.jpg?yocs=4G_4I_",
+            "title":"1"
         },
         {
-            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/content/dam/ecomm/ec_creative_carters/2023/projects/q1-cs-faces/desktop_csfaces_bg.png?yocs=4G_4I_",
-            "title":"BABY GIRL"
+            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/crm/2023/q1/loyalty-service-footers/service-icons/desktop-icons/MRM.jpg?yocs=4G_4I_",
+            "title":"2"
         },
         {
-            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/content/dam/ecomm/ec_creative_carters/2023/projects/q1-cs-faces/desktop_csfaces_bg.png?yocs=4G_4I_",
-            "title":"BABY GIRL"
+            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/crm/2023/q1/loyalty-service-footers/service-icons/desktop-icons/PLCC.jpg?yocs=4G_4I_",
+            "title":"3"
+        },
+        {
+            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/crm/2023/q1/loyalty-service-footers/service-icons/desktop-icons/App.jpg?yocs=4G_4I_",
+            "title":"4"
         }
     ]
 }

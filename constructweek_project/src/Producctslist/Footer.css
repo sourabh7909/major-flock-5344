@@ -1,0 +1,11 @@
+#fb{
+color:"white";
+background-color: rgb(179, 177, 177);
+}
+#fb:hover{
+    background-color: #00a9e0;
+}
+#anchor{
+    color:gray;
+    font-size: 13px;
+}

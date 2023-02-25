@@ -12,7 +12,20 @@ import pimage6 from "../Images/pimage6.png"
 import p2image1 from "../Images/p2image1.jpg"
 import p2image2 from "../Images/p2image2.jpg"
 import p2image3 from "../Images/p2image3.jpg"
-import { left } from '@popperjs/core'
+import profile from "../Images/user-regular.svg"
+import heart from "../Images/heart-regular.svg"
+import square from "../Images/cube-solid.svg"
+import cart from "../Images/cart-shopping-solid.svg"
+import Favproduct from '../Producctslist/Favproduct'
+import Threeproduct from '../Producctslist/Threeproduct'
+import Footer from '../Producctslist/Footer'
+import Signin from './Signin.jsx'
+import { Link } from 'react-router-dom'
+
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faCircleUser} from '@fortawesome/free-solid-svg-icons'
+import FourProduct from '../Producctslist/FourProduct'
 
 const Home = () => {
   return (
@@ -23,6 +36,16 @@ const Home = () => {
             <img id="img_one" src={img1} width="60" height="12"/>
             <p id="test_three">little planet</p>
            <p id="mid_text">Free Shipping on $35+ Orders</p>
+           <Flex mr={15}  w={'17%'} justifyContent={'space-between'}>
+
+             <Box  border={'1px solid black'} borderRadius={'100%'} w={25} h={25} mt={2}><Link to="/signin"><Image src={profile} w={'55%'} pl={5} pt={3}></Image></Link></Box><Link id="sign_in" to="/signin"><span id="span1">Sign in</span></Link>
+             <Box  borderRadius={'100%'} w={25} h={25} mt={2}><Image src={heart} w={'70%'} pl={5} pt={3}></Image></Box><span id="span1">Hearts</span>
+             <Box  borderRadius={'100%'} w={25} h={25} mt={2}><Image src={square} w={'70%'} pl={5} pt={3}></Image></Box><span id="span1">Orders</span>
+             <Box  borderRadius={'100%'} w={25} h={25} mt={2}><Image src={cart} w={'70%'} pl={5} pt={3}></Image></Box>
+             
+             
+           </Flex>
+   
       </div>
       <Flex w="100%"  h={100} >
       <Box>
@@ -128,18 +151,32 @@ const Home = () => {
         <Image src="https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/content/dam/ecomm/ec_creative_carters/2023/cadence/022123/022123/car_desktop_022123_slot5.jpg?yocs=4G_" h="100%" w="100%"></Image>
         <Box id="poster2_text">
             <h1 id="h1">SPRING BREAK CHECKLIST</h1>
-            <p id="p">From breezy boardwalk dresses to beach-ready UPF 50+ swimwear.</p>
+            <p id="p">Hundreds of new styles just reduced!</p>
             <h2 id="h2">Starting from</h2>
-            <span style={{}}>$</span> <h1 id="sech1">6</h1>
-            <p id="secp">Starting from</p>
+            <span id="span" style={{}}>$</span> <h1 id="sech1">6</h1>
+            <p id="secp">SHOP SPRING BREAK ESSENTIALS</p>
         </Box>
       </Box>
-
        
-       <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+      <Box>
+          <h1 style={{textAlign:"center",color:"#00A9E0",fontSize:"55px",marginBottom:"15px"}}>SHOP OUR FAVES</h1>
+          <Box>
+             <Favproduct/>
+          </Box>
+          <h1 style={{textAlign:"center",fontSize:"46px",fontFamily:"Poppins, Arial, Verdana, sans-serif",fontWeight:"600",marginTop:"10px"}}>Discover more from our most-loved brands</h1>
+          <Threeproduct/>
+          <FourProduct/>
+          <Footer/>
+      </Box>
       </div> 
       
   )
 }
 
 export default Home
+
+
+
+
+
+// https://www.youtube.com/watch?v=ACJjpaiy7Fk
