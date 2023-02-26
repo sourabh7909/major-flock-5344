@@ -1,0 +1,21 @@
+#login_span{
+    color: red;
+    margin-left: 10px;
+    font-size: 15px;
+    display: none;
+}
+#login_input{
+  /* color:red; */
+}
+/* #login_input::placeholder { 
+    color: red;
+    opacity: 1;
+  } */
+
+  #forget_span{
+  margin-top: 10px;
+  display: block;  
+  text-align: end;
+  color:#00a9e0;
+  font-weight: 500;
+  }

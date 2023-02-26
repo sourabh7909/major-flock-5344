@@ -9,10 +9,11 @@ import square from "../Images/cube-solid.svg"
 import cart from "../Images/cart-shopping-solid.svg"
 import Footer from '../Producctslist/Footer'
 import { Link } from 'react-router-dom'
-import Login_signup from "./Login_signup"
+// import  Login_Component from "./Login_Component"
+import Signup_Component from './Signup_Component'
 
 
-const Signin = () => {
+const Signup = () => {
   return (
   <div>
       <div id="frist">
@@ -62,14 +63,15 @@ const Signin = () => {
       <Box bg="#f2f2f2" h={35}><Center><Text pt={7} fontSize={13.8} fontWeight={700} color="#00a9e0">$6+ SPRING STYLES</Text></Center></Box>
       <hr color="#00a9e0"></hr>
       
-      <Login_signup/>
+      <Signup_Component/>
 
-      {/* <Box>
+      <Box>
+        <hr></hr>
           <Footer/>
-      </Box> */}
+      </Box>
       </div> 
       
   )
  }
 
-export default Signin;
+export default Signup;

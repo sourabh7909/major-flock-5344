@@ -1,0 +1,58 @@
+#Email_error{
+    color: red;
+    margin-left: 10px;
+    font-size: 12px;
+    width:62%;
+    margin-top: 5px;
+    display: none;
+}
+.Emails_error::placeholder { 
+    color: red;
+    opacity: 1;
+  } 
+#password_error{
+    color: red;
+    margin-left: 10px;
+    font-size: 12px;
+    width:62%;
+    margin-top: 5px;
+    display: none;
+}
+#confriompassword_error{
+    color: red;
+    margin-left: 10px;
+    font-size: 12px;
+    width:62%;
+    margin-top: 5px;
+    display: none;
+}
+#signup_span{
+    color: #444;
+    margin-left: 10px;
+    font-size: 12px;
+    width:62%;
+    margin-top: 10px;
+}
+
+#password_requrement{
+    color: #444;
+    margin-left: 12px;
+    font-size: 12px;
+    width:30%;
+    margin-top: 5px;
+}
+#login_input{
+  /* color:red; */
+}
+/* #login_input::placeholder { 
+    color: red;
+    opacity: 1;
+  } */
+
+  #forget_span{
+  margin-top: 10px;
+  display: block;  
+  text-align: end;
+  color:#00a9e0;
+  font-weight: 500;
+  }

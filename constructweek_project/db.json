@@ -1,67 +1,220 @@
-
 {
-    "fav_product":[
-        {
-            "image":"https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_swim.svg",
-            "title":"BABY_1"
-        },
-        {
-            "image":"https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_M2M.svg",
-            "title":"BABY_2"
-        },
-        {
-            "image":"https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_basics.svg",
-            "title":"BABY_3"
-        },
-        {
-            "image":"https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_familymatching.svg",
-            "title":"BABY_4"
-        },
-        {
-            "image":"https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_pajamas.svg",
-            "title":"BABY_5"
-        },
-        {
-            "image":"https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_shoes.svg",
-            "title":"BABY_6"
-        }
-    ],
-    "threeproduct":[
-        {
-            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/CAR_Q1_HPBrandBanner_LP_Desktop_Oshkosh.jpg?yocs=4G_4I_",
-            "image_sec":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/desktop_okb_logo.svg?yocs=4G_",
-            "text":"An authentic American icon with nostalgic,appeal modern relevance and enduring cool.",
-            "title":"1"
-        },
-        {
-            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/CAR_Q1_HPBrandBanner_LP_Desktop_SkipHop.jpg?yocs=4G_4I_",
-            "image_sec":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/desktop_skiphop_logo.svg?yocs=4G_"  ,    
-            "text":"Innovative grow-with-me designs help make life with little ones easy and fun",
-            "title":"2"
-        },
-        {
-            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/CAR_Q1_HPBrandBanner_LP_Desktop_LittlePlanet.jpg?yocs=4G_4I_",
-            "image_sec":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/desktop_little_planet_logo.svg?yocs=4G_"  ,
-            "text":"Crafted in pure,organic cotton,these timeless designs are a return to simplicity.",
-            "title":"3"
-        }
-    ],
-    "fourproducts":[
-        {
-            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/crm/2023/q1/loyalty-service-footers/service-icons/desktop-icons/1-Hour%20Pick%20Up.jpg?yocs=4G_4I_",
-            "title":"1"
-        },
-        {
-            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/crm/2023/q1/loyalty-service-footers/service-icons/desktop-icons/MRM.jpg?yocs=4G_4I_",
-            "title":"2"
-        },
-        {
-            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/crm/2023/q1/loyalty-service-footers/service-icons/desktop-icons/PLCC.jpg?yocs=4G_4I_",
-            "title":"3"
-        },
-        {
-            "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/crm/2023/q1/loyalty-service-footers/service-icons/desktop-icons/App.jpg?yocs=4G_4I_",
-            "title":"4"
-        }
-    ]
+  "fav_product": [
+    {
+      "image": "https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_swim.svg",
+      "title": "BABY_1"
+    },
+    {
+      "image": "https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_M2M.svg",
+      "title": "BABY_2"
+    },
+    {
+      "image": "https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_basics.svg",
+      "title": "BABY_3"
+    },
+    {
+      "image": "https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_familymatching.svg",
+      "title": "BABY_4"
+    },
+    {
+      "image": "https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_pajamas.svg",
+      "title": "BABY_5"
+    },
+    {
+      "image": "https://www.carters.com/content/dam/ecomm/ec_creative_carters/2023/cadence/shopourfaves/car_0221_shopourfaves_HP_shoes.svg",
+      "title": "BABY_6"
+    }
+  ],
+  "threeproduct": [
+    {
+      "image": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/CAR_Q1_HPBrandBanner_LP_Desktop_Oshkosh.jpg?yocs=4G_4I_",
+      "image_sec": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/desktop_okb_logo.svg?yocs=4G_",
+      "text": "An authentic American icon with nostalgic,appeal modern relevance and enduring cool.",
+      "title": "1"
+    },
+    {
+      "image": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/CAR_Q1_HPBrandBanner_LP_Desktop_SkipHop.jpg?yocs=4G_4I_",
+      "image_sec": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/desktop_skiphop_logo.svg?yocs=4G_",
+      "text": "Innovative grow-with-me designs help make life with little ones easy and fun",
+      "title": "2"
+    },
+    {
+      "image": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/CAR_Q1_HPBrandBanner_LP_Desktop_LittlePlanet.jpg?yocs=4G_4I_",
+      "image_sec": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/ec_creative_carters/2023/projects/hp-brand-banner/desktop/desktop_little_planet_logo.svg?yocs=4G_",
+      "text": "Crafted in pure,organic cotton,these timeless designs are a return to simplicity.",
+      "title": "3"
+    }
+  ],
+  "fourproducts": [
+    {
+      "image": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/crm/2023/q1/loyalty-service-footers/service-icons/desktop-icons/1-Hour%20Pick%20Up.jpg?yocs=4G_4I_",
+      "title": "1"
+    },
+    {
+      "image": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/crm/2023/q1/loyalty-service-footers/service-icons/desktop-icons/MRM.jpg?yocs=4G_4I_",
+      "title": "2"
+    },
+    {
+      "image": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/crm/2023/q1/loyalty-service-footers/service-icons/desktop-icons/PLCC.jpg?yocs=4G_4I_",
+      "title": "3"
+    },
+    {
+      "image": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.295/content/dam/ecomm/crm/2023/q1/loyalty-service-footers/service-icons/desktop-icons/App.jpg?yocs=4G_4I_",
+      "title": "4"
+    }
+  ],
+  "Registration": [
+    {
+      "usedetails": {
+        "Email": "gfgdfddfdfddfd",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 1
+    },
+    {
+      "usedetails": {
+        "Email": "gfgdfddfdfddfd",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 2
+    },
+    {
+      "usedetails": {
+        "Email": "gfgdfddfdfddfd",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 3
+    },
+    {
+      "usedetails": {
+        "Email": "dfdfsdsdsdsd",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 4
+    },
+    {
+      "usedetails": {
+        "Email": "dfdfsdsdsdsd",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 5
+    },
+    {
+      "usedetails": {
+        "Email": "dfdfsdsdsdsd",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 6
+    },
+    {
+      "usedetails": {
+        "Email": "dfdfsdsdsdsd",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 7
+    },
+    {
+      "usedetails": {
+        "Email": "dfdfsdsdsdsd",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 8
+    },
+    {
+      "usedetails": {
+        "Email": "dfdfsdsdsdsd",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 9
+    },
+    {
+      "usedetails": {
+        "Email": "dfdfsdsdsdsd",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 10
+    },
+    {
+      "usedetails": {
+        "Email": "dfdfsdsdsdsd",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 11
+    },
+    {
+      "usedetails": {
+        "Email": "dfdfsdsdsdsd",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 12
+    },
+    {
+      "usedetails": {
+        "Email": "patidarsourabh5874@gmail.com",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 13
+    },
+    {
+      "usedetails": {
+        "Email": "patidarsourabh5874@gmail.com",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 14
+    },
+    {
+      "usedetails": {
+        "Email": "patidarsourabh5874@gmail.com",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 15
+    },
+    {
+      "usedetails": {
+        "Email": "patidarsourabh5874@gmail.com",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 16
+    },
+    {
+      "usedetails": {
+        "Email": "patidarsourabh5874@gmail.com",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 17
+    },
+    {
+      "usedetails": {
+        "Email": "patidarsourabh574@gmail.com",
+        "password": "121212",
+        "confriompassword": "121212"
+      },
+      "id": 18
+    },
+    {
+      "usedetails": {
+        "Email": "patidarsourabh574@gmail.com",
+        "password": "123123",
+        "confriompassword": "123123"
+      },
+      "id": 19
+    }
+  ]
 }
